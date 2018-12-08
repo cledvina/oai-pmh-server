@@ -1,0 +1,50 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2017-11-22T21:42:08Z</responseDate>
+<request verb="ListRecords" resumptionToken="from%3d2017-11-16%26until%3d2017-11-17%26token%3deuclid.ant%2f1510842259%26metadataPrefix%3doai_dc">https://projecteuclid.org/DPubS</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:CULeuclid:euclid.gt/1510859168</identifier>
+<datestamp>2017-11-16</datestamp>
+<setSpec>gt</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>
+Maximally stretched laminations on geometrically finite hyperbolic manifolds
+</dc:title>
+<dc:creator>Guéritaud, François</dc:creator>
+<dc:creator>Kassel, Fanny</dc:creator>
+<dc:subject>hyperbolic manifold</dc:subject>
+<dc:subject>geometrical finiteness</dc:subject>
+<dc:subject>Lipschitz extension</dc:subject>
+<dc:subject>proper action</dc:subject>
+<dc:subject>group manifold</dc:subject>
+<dc:subject>geodesic lamination</dc:subject>
+<dc:subject>20H10</dc:subject>
+<dc:subject>30F60</dc:subject>
+<dc:subject>32Q05</dc:subject>
+<dc:subject>53A35</dc:subject>
+<dc:subject>57S30</dc:subject>
+<dc:description>
+Let [math] be a discrete group. For a pair [math] of representations of [math] into [math] with [math] geometrically finite, we study the set of [math] –equivariant Lipschitz maps from the real hyperbolic space  [math] to itself that have minimal Lipschitz constant. Our main result is the existence of a geodesic lamination that is “maximally stretched” by all such maps when the minimal constant is at least  [math] . As an application, we generalize two-dimensional results and constructions of Thurston and extend his asymmetric metric on Teichmüller space to a geometrically finite setting and to higher dimension. Another application is to actions of discrete subgroups [math] of [math] on [math] by right and left multiplication: we give a double properness criterion for such actions, and prove that for a large class of groups  [math] the action remains properly discontinuous after any small deformation of [math] inside [math] .
+</dc:description>
+<dc:publisher>MSP</dc:publisher>
+<dc:date>2017</dc:date>
+<dc:type>Text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>https://projecteuclid.org/euclid.gt/1510859168</dc:identifier>
+<dc:identifier>Geom. Topol. 21, no. 2 (2017), 693-840</dc:identifier>
+<dc:identifier>doi:10.2140/gt.2017.21.693</dc:identifier>
+<dc:language>en</dc:language>
+<dc:relation>1465-3060</dc:relation>
+<dc:relation>1364-0380</dc:relation>
+<dc:rights>Copyright 2017 Mathematical Sciences Publishers</dc:rights>
+</oai_dc:dc>
+</metadata>
+</record>
+<resumptionToken>
+until%3d2017-11-17%26token%3deuclid.gt%2f1510859168%26metadataPrefix%3doai_dc%26from%3d2017-11-16
+</resumptionToken>
+</ListRecords>
+</OAI-PMH>
